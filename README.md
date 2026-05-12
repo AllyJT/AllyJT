@@ -3,15 +3,21 @@ Hi, I'm Ally (Phuong Trang Tran) 👋
 Final-year Computer & Software Engineering student at the University of Melbourne (graduating mid-2026), passionate about building data systems, machine learning pipelines, and full-stack applications.
 
 
+
 🌴 What I'm currently making
 
 Currently building a Cascade playing agent using Minimax search!
+A horror game that we can't pinpoint the type of yet
+
 
 
 🚀 About Me
 
-I enjoy working across the full development lifecycle — from designing ETL pipelines and training ML models to shipping web applications in Agile teams. I've had hands-on experience processing tens of millions of records, building predictive systems, and collaborating with engineers and non-technical stakeholders alike.
-When I'm not coding, I volunteer as a Student Rep for COMP30024 (AI) and mentor first-year students transitioning into university life.
+I enjoy working across the full development lifecycle, from designing ETL pipelines and training ML models to shipping web applications in Agile teams. I've had hands-on experience processing tens of millions of records, building predictive systems, and collaborating with engineers and non-technical stakeholders alike.
+When I'm not coding, I volunteer as a Student Rep for COMP30024 (AI) and mentor first-year students transitioning into university life. 
+
+I also love drawing and designing so if you have any game in the making, can I join?
+
 
 
 🛠️ My Tech Stack
@@ -25,6 +31,7 @@ Web: React.js · Node.js · Express.js · HTML5 · CSS
 Databases: MySQL · Microsoft Access
 
 Tools: GitHub · Docker · Jupyter · VSCode · HubSpot
+
 
 
 📌 Featured Projects
