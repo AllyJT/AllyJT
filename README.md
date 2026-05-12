@@ -6,8 +6,8 @@ Final-year Computer & Software Engineering student at the University of Melbourn
 
 🌴 What I'm currently making
 
-Currently building a Cascade playing agent using Minimax search!
-A horror game that we can't pinpoint the type of yet
++ Currently building a Cascade playing agent using Minimax search!
++ A horror game that we can't pinpoint the type of yet
 
 
 
