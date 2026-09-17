@@ -5,6 +5,13 @@ I'm a **Computing and Software Systems graduate from the University of Melbourne
 I like turning messy problems into working systems — whether that's designing ETL pipelines, training ML models, or building full-stack applications.
 
 ## 🎮 Current Side Projects
+### 📱 iPad Widget App
+
+A spring blossom and fall leaves map for Melbourne. This is having and app version, but still in progress, and I want to make a web version too. 
+
+I used this idea for the WIT of the Unimelb Hackathon. Made it to the finalist but did not win. I want to continue develope it, so if you guys wanna check it out.
+
+https://github.com/paigenewin/PLATea-Code-to-Connect-2026
 
 ### 📱 iPad Widget App
 
