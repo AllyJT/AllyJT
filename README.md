@@ -5,7 +5,7 @@ I'm a **Computing and Software Systems graduate from the University of Melbourne
 I like turning messy problems into working systems — whether that's designing ETL pipelines, training ML models, or building full-stack applications.
 
 ## 🎮 Current Side Projects
-### 📱 iPad Widget App
+### 📱 A blossom map on ios
 
 A spring blossom and fall leaves map for Melbourne. This is having and app version, but still in progress, and I want to make a web version too. 
 
